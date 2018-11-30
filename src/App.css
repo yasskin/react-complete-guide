@@ -2,3 +2,7 @@
   text-align: center;
 }
 
+ol,
+li {
+  text-align: left;
+}
